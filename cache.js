@@ -1,0 +1,1 @@
+const CITIES_WEATHER_CACHE = {}
